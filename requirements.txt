@@ -1,0 +1,2 @@
+plantcv==3.13.0
+ipympl
