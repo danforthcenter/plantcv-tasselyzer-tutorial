@@ -6,7 +6,7 @@ Tasselyzer, a machine learning method to quantify anther extrusion in maize base
 
 ## Tutorial tags/keywords
 
-tassel, anther, maize, machine learning
+tassel, anther, male fertility, maize, machine learning
 
 ## Citations
 
