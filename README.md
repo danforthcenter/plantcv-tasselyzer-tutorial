@@ -1,5 +1,7 @@
 # Tasselyzer Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tasselyzer-tutorial/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tasselyzer-tutorial/actions/workflows/ci-tests.yml)
+
 Tasselyzer, a machine learning method to quantify anther extrusion in maize based on PlantCV.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tasselyzer-tutorial/HEAD)
