@@ -1,2 +1,2 @@
-plantcv==3.13.0
+plantcv
 ipympl
