@@ -6,6 +6,8 @@ Tasselyzer, a machine learning method to quantify anther extrusion in maize base
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tasselyzer-tutorial/HEAD)
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tasselyzer-tutorial/blob/main/index-Colab.ipynb)
+
 [![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tasselyzer-tutorial)
 
 ## Tutorial tags/keywords
