@@ -1,0 +1,31 @@
+cff-version: 1.0.0
+message: "If you use this tutorial, please cite it as below."
+authors:
+- family-names: Fahlgren
+  given-names: Noah 
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-5597-4537"
+- family-names: Kenney
+  given-names: Samuel
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0007-6021-9169"
+- family-names: Teng
+  given-names: Chong
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0001-9898-6442"
+- family-names: Schuhl
+  given-names: Haley
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-8825-8297"
+- family-names: Lama
+  given-names: Sunita
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0005-4487-0555"
+- family-names: Bhatt
+  given-names: Parag
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-0396-6412"
+title: "PlantCV Tasselyzer tutorial"
+version: 1.2
+doi: 
+date-released: 2026
